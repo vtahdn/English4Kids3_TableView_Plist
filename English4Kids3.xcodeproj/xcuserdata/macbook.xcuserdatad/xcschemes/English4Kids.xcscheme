@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FAE6D4AF215B7264008E6F18"
-               BuildableName = "English4Kids.app"
-               BlueprintName = "English4Kids"
-               ReferencedContainer = "container:English4Kids.xcodeproj">
+               BuildableName = "English4Kids3.app"
+               BlueprintName = "English4Kids3"
+               ReferencedContainer = "container:English4Kids3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FAE6D4C3215B7264008E6F18"
-               BuildableName = "English4KidsTests.xctest"
-               BlueprintName = "English4KidsTests"
-               ReferencedContainer = "container:English4Kids.xcodeproj">
+               BuildableName = "English4Kids3.xctest"
+               BlueprintName = "English4Kids3Tests"
+               ReferencedContainer = "container:English4Kids3.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FAE6D4CE215B7264008E6F18"
-               BuildableName = "English4KidsUITests.xctest"
-               BlueprintName = "English4KidsUITests"
-               ReferencedContainer = "container:English4Kids.xcodeproj">
+               BuildableName = "English4Kids3.xctest"
+               BlueprintName = "English4Kids3UITests"
+               ReferencedContainer = "container:English4Kids3.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FAE6D4AF215B7264008E6F18"
-            BuildableName = "English4Kids.app"
-            BlueprintName = "English4Kids"
-            ReferencedContainer = "container:English4Kids.xcodeproj">
+            BuildableName = "English4Kids3.app"
+            BlueprintName = "English4Kids3"
+            ReferencedContainer = "container:English4Kids3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FAE6D4AF215B7264008E6F18"
-            BuildableName = "English4Kids.app"
-            BlueprintName = "English4Kids"
-            ReferencedContainer = "container:English4Kids.xcodeproj">
+            BuildableName = "English4Kids3.app"
+            BlueprintName = "English4Kids3"
+            ReferencedContainer = "container:English4Kids3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FAE6D4AF215B7264008E6F18"
-            BuildableName = "English4Kids.app"
-            BlueprintName = "English4Kids"
-            ReferencedContainer = "container:English4Kids.xcodeproj">
+            BuildableName = "English4Kids3.app"
+            BlueprintName = "English4Kids3"
+            ReferencedContainer = "container:English4Kids3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
